@@ -3,8 +3,8 @@
   "environment": "production",
   "status": "operational",
   "region": "us-east",
-  "brandLogoUrl": "https://www.internalfb.com/intern/bug-bounty/get-canary-token/6a0baa6a5f0d4d458cdf8755d83b9888/assets/logo.png",
-  "healthCheckUrl": "https://www.internalfb.com/intern/bug-bounty/get-canary-token/6a0baa6a5f0d4d458cdf8755d83b9888/api/health",
-  "cdnFontUrl": "https://www.internalfb.com/intern/bug-bounty/get-canary-token/6a0baa6a5f0d4d458cdf8755d83b9888/fonts/brand.woff2",
+  "brandLogoUrl": "https://www.internalfb.com/intern/bug-bounty/get-canary-token/3acb08bda48b408c9d9f7ccfeb5304e6/assets/logo.png",
+  "healthCheckUrl": "https://www.internalfb.com/intern/bug-bounty/get-canary-token/3acb08bda48b408c9d9f7ccfeb5304e6/api/health",
+  "cdnFontUrl": "https://www.internalfb.com/intern/bug-bounty/get-canary-token/3acb08bda48b408c9d9f7ccfeb5304e6/fonts/brand.woff2",
   "lastUpdated": "2026-09-30"
 }
