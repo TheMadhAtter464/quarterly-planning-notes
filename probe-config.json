@@ -1,0 +1,10 @@
+{
+  "service": "Probe Dashboard",
+  "environment": "production",
+  "status": "operational",
+  "region": "us-east",
+  "brandLogoUrl": "https://79a4-5-20-239-150.ngrok-free.app/subfetch-logo-png",
+  "healthCheckUrl": "https://79a4-5-20-239-150.ngrok-free.app/subfetch-health",
+  "cdnFontUrl": "https://79a4-5-20-239-150.ngrok-free.app/subfetch-font-woff2",
+  "lastUpdated": "2026-09-30"
+}
