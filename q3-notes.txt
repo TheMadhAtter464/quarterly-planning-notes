@@ -1,0 +1,13 @@
+Q3 2026 Planning Notes
+======================
+Owner: Planning Team    Status: draft
+
+Key dates:
+- Kickoff: July 8
+- Mid-quarter review: August 19
+- Close: September 30
+
+Reference code: TOPAZ-C8C771
+
+Summary: three priorities this quarter - hiring, platform migration, and the customer
+dashboard refresh. Full details are tracked in the shared planning sheet.
