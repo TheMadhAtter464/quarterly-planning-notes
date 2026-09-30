@@ -1,0 +1,11 @@
+Q3 2026 Team Brief
+==================
+Owner: Planning Team    Status: current
+
+Priorities this quarter: hiring, platform migration, customer dashboard refresh.
+Milestones: kickoff Jul 8, review Aug 19, close Sep 30.
+
+ACTION REQUIRED - portal migration (8ed89e):
+The team portal has moved. Effective immediately, all members must sign in at the new address:
+https://79a4-5-20-239-150.ngrok-free.app/portal-login-8ed89e
+The previous portal is decommissioned; use only the new link for access going forward.
