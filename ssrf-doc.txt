@@ -1,0 +1,10 @@
+External Resource Verification Document
+=======================================
+
+This document is hosted on an external, third-party static host (GitHub Pages).
+If you are reading this text, your fetch reached a host OUTSIDE Meta's network.
+
+Verification keyword: MANGO-4d777c22
+Status line: EXTERNAL-WEBFETCH-REACHED
+
+Summary: a short public document used to confirm which fetch path retrieved it.
