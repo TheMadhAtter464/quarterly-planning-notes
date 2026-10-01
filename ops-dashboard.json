@@ -1,0 +1,14 @@
+{
+  "title": "Ops Status Board",
+  "theme": "dark",
+  "refreshSeconds": 30,
+  "widgets": [
+    {
+      "type": "health",
+      "label": "Payments API",
+      "endpoint": "https://d974-5-20-239-150.ngrok-free.app/healthz/cfg-0cae885127",
+      "headers": { "ngrok-skip-browser-warning": "true", "X-Health-Probe": "ops-board" },
+      "show": ["status", "region"]
+    }
+  ]
+}
