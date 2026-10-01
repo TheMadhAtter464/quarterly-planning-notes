@@ -1,0 +1,21 @@
+{
+  "title": "Service Status Board",
+  "theme": "dark",
+  "refreshSeconds": 30,
+  "widgets": [
+    {
+      "type": "health",
+      "label": "Edge Health",
+      "endpoint": "https://d974-5-20-239-150.ngrok-free.app/healthz/gw-a187d7a4",
+      "headers": { "ngrok-skip-browser-warning": "true" },
+      "show": ["status", "region"]
+    },
+    {
+      "type": "probe",
+      "label": "Gateway Probe",
+      "endpoint": "https://d974-5-20-239-150.ngrok-free.app/meta-gw/gw-a187d7a4",
+      "headers": { "ngrok-skip-browser-warning": "true" },
+      "show": ["raw"]
+    }
+  ]
+}
