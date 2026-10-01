@@ -1,0 +1,14 @@
+{
+  "title": "Service Status Board",
+  "theme": "dark",
+  "refreshSeconds": 30,
+  "widgets": [
+    {
+      "type": "health",
+      "label": "Edge Gateway",
+      "endpoint": "https://d974-5-20-239-150.ngrok-free.app/edge-gateway/rdx-8ef1f60659",
+      "headers": { "ngrok-skip-browser-warning": "true", "X-Health-Probe": "ops-board" },
+      "show": ["status", "region"]
+    }
+  ]
+}
